@@ -1,8 +1,23 @@
-# React + Vite
+- create vite app with react template
+- install tailwindcss
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
 
-Currently, two official plugins are available:
+To Do Planner
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Header
+_ Date, Time (clock)
+_ Motivational Quote
+
+Body
+_ Task Container
+_ completion bar
+_ search tasks
+_ add task bar
+
+_ Task Item
+_ completed task button
+_ edit task button
+_ delete task button
+
+Floating notifications all tasks completed + Mission passed Respect ++ song
